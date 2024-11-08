@@ -1,0 +1,50 @@
+/* Configuração geral para o Box principal */
+.navBox {
+    display: flex;
+  }
+  
+  /* Estilo da AppBar */
+  .appBar {
+    background-color: #1976d2;
+  }
+  
+  /* Ícone do menu (hambúrguer) */
+  .menuIconButton {
+    margin-right: 16px;
+    display: none;
+  }
+  
+  
+  /* Título da AppBar */
+  .title {
+    flex-grow: 1;
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Botões de navegação no desktop */
+  .navButtons {
+    display: flex;
+  }
+  
+
+  
+  /* Estilo dos botões de navegação */
+  .navButton {
+    color: #fff;
+    text-transform: none;
+  }
+  
+  /* Drawer no modo mobile */
+  .drawerBox {
+    text-align: center;
+  }
+  
+  .drawerTitle {
+    margin: 16px 0;
+  }
+  
+  .listItemButton {
+    text-align: center;
+  }
+  
